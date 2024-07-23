@@ -750,3 +750,7 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 git add *
 git commit -m "make changes"
 git push
+git push
+psql --username=freecodecamp --dbname=postgres
+psql --username=freecodecamp --dbname=postgres
+psql --username=freecodecamp --dbname=postgres
