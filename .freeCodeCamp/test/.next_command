@@ -938,3 +938,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 psql --username=freecodecamp dbname=postgresql
 psql --username=freecodecamp dbname=postgresql
 psql --username=freecodecamp dbname=mario_database
+psql --username=freecodecamp dbname=mario_database
